@@ -1,0 +1,16 @@
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\bin\Debug\netcoreapp2.0\AlgorithmTests.dll
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\bin\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.dll
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\bin\Debug\netcoreapp2.0\AlgorithmTests.deps.json
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\bin\Debug\netcoreapp2.0\AlgorithmTests.runtimeconfig.json
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\bin\Debug\netcoreapp2.0\AlgorithmTests.runtimeconfig.dev.json
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\bin\Debug\netcoreapp2.0\AlgorithmTests.pdb
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\bin\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.pdb
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\obj\Debug\netcoreapp2.0\AlgorithmTests.csprojResolveAssemblyReference.cache
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\obj\Debug\netcoreapp2.0\AlgorithmTests.csproj.CoreCompileInputs.cache
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\obj\Debug\netcoreapp2.0\AlgorithmTests.AssemblyInfoInputs.cache
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\obj\Debug\netcoreapp2.0\AlgorithmTests.AssemblyInfo.cs
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\obj\Debug\netcoreapp2.0\AlgorithmTests.dll
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmTests\obj\Debug\netcoreapp2.0\AlgorithmTests.pdb

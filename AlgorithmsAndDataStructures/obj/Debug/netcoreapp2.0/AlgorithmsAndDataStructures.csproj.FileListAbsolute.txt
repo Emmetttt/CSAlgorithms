@@ -1,0 +1,9 @@
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.deps.json
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.dll
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.pdb
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.AssemblyInfoInputs.cache
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.AssemblyInfo.cs
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.dll
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.pdb
+C:\Users\emmett.moore\source\repos\AlgorithmsDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp2.0\AlgorithmsAndDataStructures.csprojResolveAssemblyReference.cache
